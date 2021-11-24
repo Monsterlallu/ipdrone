@@ -13,9 +13,7 @@
 <a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/Monster lallu-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MONSTER LALLU KCH-red?style=for-the-badge&logo=Youtube"></a>
 </p>
-<p align="center">
 
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
